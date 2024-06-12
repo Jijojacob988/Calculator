@@ -1,21 +1,24 @@
 .calc{
     width: 400px;
-    height: 600px;
-    background: grey;
+    height: 500px;
+    background: rgb(78, 78, 117);
     margin-left: 400px;
+    margin-top: 30px;
+    border: solid 5px rgb(111, 110, 170);
+    border-style:ridge;
 }
-.screen{
-    width: 80%;
-    margin-left: 36px;
+#screen{
+    width: 85%;
+    margin-left: 28px;
     height: 40px;
     margin-top: 30px;
     pointer-events: none;
+    background: whitesmoke
 }
 .btn{
 width: 60px;
 height: 45px;
 margin-left: 30px;
 margin-top: 30px;
-background: bisque;
-
+background: rgb(223, 226, 228);
 }
